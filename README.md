@@ -1,0 +1,3 @@
+# Programacion-I
+Trabajo-Parcial
+este es el archivo README donde explico casi  todo acerca del parcial...
